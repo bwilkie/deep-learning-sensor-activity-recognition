@@ -1,0 +1,2 @@
+# sensor-activity-recognition
+Smartphone activity recognition with extreme feature pruning, RNN modelling, and TFLite optimation
