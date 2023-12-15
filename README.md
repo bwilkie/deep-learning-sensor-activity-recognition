@@ -5,9 +5,10 @@ Coming soon!
 
 #Workflow
 
-![workflow](https://github.com/bwilkie/tflite-sensor-activity-recognition/assets/40703571/39f02755-7c58-46dc-9239-0aff9b80e79b)
+![workflow_simple](https://github.com/bwilkie/tflite-sensor-activity-recognition/assets/40703571/8003def3-2a92-4267-8091-37250e77211e)
 
-Exploratory Analysis
+
+#Exploratory Analysis
 
 ![image](https://github.com/bwilkie/tflite-sensor-activity-recognition/assets/40703571/1f25ab55-4df0-4c33-9651-56d1c9f22039)
 
