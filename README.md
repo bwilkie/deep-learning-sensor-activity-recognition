@@ -1,12 +1,12 @@
-# TFLite sensor-activity-recognition
+# Deep Learning sensor-activity-recognition
 Smartphone activity recognition with extreme feature pruning, RNN modelling, and TFLite optimisation
 
 Coming soon!
 
 # Workflow #
 
+![workflow_simpler](https://github.com/bwilkie/deep-learning-sensor-activity-recognition/assets/40703571/e6e8a0f6-3da3-437a-b2dc-f8779769a16f)
 
-![workflow_simple](https://github.com/bwilkie/tflite-sensor-activity-recognition/assets/40703571/f15e01d0-7873-417b-af07-8f548dfaac31)
 
 ## Exploratory Analysis ##
 
@@ -14,18 +14,19 @@ Coming soon!
 
 Mean X,Y, X Acceleration from Standing to Sitting
 
-![image](https://github.com/bwilkie/tflite-sensor-activity-recognition/assets/40703571/56969604-7690-46bc-bf0e-968494700916)
-
+![xyz_acc](https://github.com/bwilkie/deep-learning-sensor-activity-recognition/assets/40703571/eda37f0a-21cb-46b2-a863-3d9d0e744cb7)
 
 Mean X,Y, X Gyro from Standing to Sitting
 
-![image](https://github.com/bwilkie/tflite-sensor-activity-recognition/assets/40703571/7148f5dc-b01d-49f5-bde3-0076979d9917)
+![xyz_gyro](https://github.com/bwilkie/deep-learning-sensor-activity-recognition/assets/40703571/77844933-ceb1-4b22-9074-a815ac11ad71)
 
+# Neural Network Model Accuracy and Loss
 
-## Benchmark SVC Model Confusion Matrix ##
-
+![accuracy_loss](https://github.com/bwilkie/deep-learning-sensor-activity-recognition/assets/40703571/e5076788-14b2-4f7a-96e0-6018a81aef9e)
 
 ## Hyperparameter Tuning ##
+
+![hparams](https://github.com/bwilkie/deep-learning-sensor-activity-recognition/assets/40703571/a371ff68-9a2e-4471-ab87-2da3b02183b4)
 
 
 ## Neural Network Confusion Matrix ##
